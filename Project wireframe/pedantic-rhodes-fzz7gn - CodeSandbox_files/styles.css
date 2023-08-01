@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(
+    93.1deg,
+    rgb(238, 254, 183) 19.1%,
+    rgb(169, 254, 222) 53.9%,
+    rgb(90, 222, 255) 92%
+  );
+}
+h1 {
+  margin: auto;
+  padding-block: 30px;
+}
+h2 h3 {
+  margin: 0% auto;
+  display: block;
+  padding-block: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 23px;
+}
